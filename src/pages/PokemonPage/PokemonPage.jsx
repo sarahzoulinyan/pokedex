@@ -35,7 +35,7 @@ export default function PokemonPage() {
   return (
     <div className={styles.container}>
       <button onClick={handleGoBack} className={styles.backButton}>
-        ← Voltar para Pokédex
+        ← Back to Pokédex
       </button>
       
       <div className={styles.header}>

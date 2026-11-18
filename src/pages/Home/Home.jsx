@@ -32,7 +32,7 @@ export default function Home() {
           onClick={loadMore} 
           className={styles.loadMoreButton}
         >
-          Carregar Mais Pokémon
+          Load More Pokémon
         </button>
       )}
     </div>
